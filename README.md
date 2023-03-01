@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     
     - 🌱 I’m currently learning Angular
     
-    - 🤔 I’m looking collaborate on **MERN Technology**
+    - 🤔 I’m looking collaborate on MERN Technology
     
-    - 💬 Ask me about **Web Development**
+    - 💬 Ask me about Web Development
     
