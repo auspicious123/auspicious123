@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🤵 About Me:
+### 🤵 Grateful to have you
