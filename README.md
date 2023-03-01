@@ -25,6 +25,6 @@ Here are some ideas to get you started:
     
     - 💬 Ask me about Web Development
     
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
                     src="https://github-profile-trophy.vercel.app/?username=auspicious123"
                     alt="auspicious123" /></a> </p>
