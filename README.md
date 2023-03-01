@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 ### 🤵 Grateful to have you
 
-    - 🔭 I’m currently working on laravel
+     🔭 I’m currently working on laravel
     
-    - 🌱 I’m currently learning Angular
+     🌱 I’m currently learning Angular
     
-    - 🤔 I’m looking collaborate on MERN Technology
+     🤔 I’m looking collaborate on MERN Technology
     
-    - 💬 Ask me about Web Development
+     💬 Ask me about Web Development
     
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
                     src="https://github-profile-trophy.vercel.app/?username=auspicious123"
