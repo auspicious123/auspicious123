@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3> 🤵 Grateful to have you </h3>
+<h3> 🤵 Grateful to have you! </h3>
 
    - 🔭 I’m currently working on **Laravel**
     
