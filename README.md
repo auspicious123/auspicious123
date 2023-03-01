@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 <h3> 🤵 Grateful to have you </h3>
 
-   - 🔭 I’m currently working on **laravel**
+   - 🔭 I’m currently working on **Laravel**
     
-   - 🌱 I’m currently learning Angular
+   - 🌱 I’m currently learning **Angular**
     
-   - 🤔 I’m looking collaborate on MERN Technology
+   - 🤔 I’m looking collaborate on **MERN Stack**
     
-   - 💬 Ask me about Web Development
+   - 💬 Ask me about **Web Development**
     
 
     
