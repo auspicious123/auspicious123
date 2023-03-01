@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🤵 Grateful to have you  
-    ### 🤵 About Me:
+### 🤵 Grateful to have you
+
     - 🔭 I’m currently working on laravel
+    
     - 🌱 I’m currently learning Angular
+    
     - 🤔 I’m looking collaborate on **MERN Technology**
+    
     - 💬 Ask me about **Web Development**
-    <!-- - 📫 How to reach me: ...
-    - 😄 Pronouns: ...
-    - ⚡ Fun fact: ... -->
+    
