@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
    - 🔭 I’m currently working on **Laravel**
     
-   - 🌱 I’m currently learning **Angular**
-    
    - 🤔 I’m looking collaborate on **MERN Stack**
     
    - 💬 Ask me about **Web Development**
