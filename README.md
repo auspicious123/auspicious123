@@ -68,7 +68,7 @@ Here are some ideas to get you started:
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
                     alt="mysql" width="40" height="40" /> </a>
             <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
-                    src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /> </a>
+                    src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" alt="nextjs" width="40" height="40" /> </a>
             <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
                     alt="nodejs" width="40" height="40" /> </a>
