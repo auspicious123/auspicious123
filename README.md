@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 🤵 Grateful to have you
 
-    - 🔭 I’m currently working on <b>laravel</b>
+    - 🔭 I’m currently working on laravel
     
     - 🌱 I’m currently learning Angular
     
