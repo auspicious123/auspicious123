@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3> 🤵 Grateful to have you ! </h3>
 
-   - 🔭 I’m currently working on **Laravel**
+<!--    - 🔭 I’m currently working on **Laravel** -->
     
    - 🤔 I’m looking collaborate on **MERN Stack**
     
