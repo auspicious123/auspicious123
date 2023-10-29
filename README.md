@@ -1,4 +1,4 @@
-![image](https://github.com/auspicious123/auspicious123/assets/76228552/3feed756-9997-4fa8-a7be-3be3d5aff5e5)# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"/>
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"/>
 
 <!--
 **auspicious123/auspicious123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
