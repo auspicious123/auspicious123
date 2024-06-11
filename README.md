@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3> 🤵 Grateful </h3>
 
 <!--    - 🔭 I’m currently working on **Laravel** -->
-   - 🏦 I’m a Software Engineer working in India 
+   - 🏦 I’m a Software Engineer
     
 
     
